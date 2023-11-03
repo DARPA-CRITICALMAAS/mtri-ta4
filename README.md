@@ -1,2 +1,2 @@
 # mtri-ta4
-Software Repository for MTRI Development Effort
+Software Repository for MTRI Development Efforts
