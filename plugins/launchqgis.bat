@@ -1,0 +1,2 @@
+start setpath
+start qgis
